@@ -1,0 +1,15 @@
+{
+    "projectName": "salesforcecasts-dev-code",
+    "username": "teja@salesforcecasts.com",
+    "id": "b1f93280-5422-11e8-b67d-8b52d7f29325",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://kkteja-dev-ed.my.salesforce.com",
+    "workspace": "/Users/KrishnaTeja/Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexPage",
+        "AuraDefinitionBundle"
+    ]
+}
